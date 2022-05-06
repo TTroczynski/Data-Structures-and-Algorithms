@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\tomtr\source\repos\Data Structures and Algorithms - Lab 01\PROG72365_22W_Lab01\main.c(23,46): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  Parity.c
+  Generating Code...
+  PROG72365_22W_Lab01.vcxproj -> C:\Users\tomtr\source\repos\Data Structures and Algorithms - Lab 01\x64\Debug\PROG72365_22W_Lab01.exe
