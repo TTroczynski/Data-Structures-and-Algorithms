@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\tomtr\source\repos\Lab 06\PROG72365_22W_Lab06_PartC\main.c(29,24): warning C4047: 'function': 'int *' differs in levels of indirection from 'int [7][4]'
+C:\Users\tomtr\source\repos\Lab 06\PROG72365_22W_Lab06_PartC\main.c(29,13): warning C4024: 'MultiplyHx': different types for formal and actual parameter 1
+C:\Users\tomtr\source\repos\Lab 06\PROG72365_22W_Lab06_PartC\main.c(32,24): warning C4047: 'function': 'int *' differs in levels of indirection from 'int [7][4]'
+C:\Users\tomtr\source\repos\Lab 06\PROG72365_22W_Lab06_PartC\main.c(32,13): warning C4024: 'showEncode': different types for formal and actual parameter 1
+C:\Users\tomtr\source\repos\Lab 06\PROG72365_22W_Lab06_PartC\main.c(34,24): warning C4047: 'function': 'int *' differs in levels of indirection from 'int [3][7]'
+C:\Users\tomtr\source\repos\Lab 06\PROG72365_22W_Lab06_PartC\main.c(34,13): warning C4024: 'MultiplyHx': different types for formal and actual parameter 1
+C:\Users\tomtr\source\repos\Lab 06\PROG72365_22W_Lab06_PartC\main.c(37,24): warning C4047: 'function': 'int *' differs in levels of indirection from 'int [3][7]'
+C:\Users\tomtr\source\repos\Lab 06\PROG72365_22W_Lab06_PartC\main.c(37,13): warning C4024: 'showDecode': different types for formal and actual parameter 1
+C:\Users\tomtr\source\repos\Lab 06\PROG72365_22W_Lab06_PartC\main.c(41,24): warning C4047: 'function': 'int *' differs in levels of indirection from 'int [3][7]'
+C:\Users\tomtr\source\repos\Lab 06\PROG72365_22W_Lab06_PartC\main.c(41,13): warning C4024: 'MultiplyHx': different types for formal and actual parameter 1
+C:\Users\tomtr\source\repos\Lab 06\PROG72365_22W_Lab06_PartC\main.c(44,24): warning C4047: 'function': 'int *' differs in levels of indirection from 'int [3][7]'
+C:\Users\tomtr\source\repos\Lab 06\PROG72365_22W_Lab06_PartC\main.c(44,13): warning C4024: 'showDecode': different types for formal and actual parameter 1
+  PROG72365_22W_Lab06_PartC.vcxproj -> C:\Users\tomtr\Source\Repos\Lab 06\x64\Debug\PROG72365_22W_Lab06_PartC.exe
