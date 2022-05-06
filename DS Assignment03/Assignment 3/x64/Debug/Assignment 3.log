@@ -1,0 +1,5 @@
+﻿  Main.c
+C:\Users\tomtr\source\repos\Assignment 3\Assignment 3\Main.c(15,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tree.c
+  Generating Code...
+  Assignment 3.vcxproj -> C:\Users\tomtr\Source\Repos\Assignment 3\x64\Debug\Assignment 3.exe
