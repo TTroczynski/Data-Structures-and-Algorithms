@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\tomtr\source\repos\Lab04\PROG72365_22W_Lab04\main.c(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tomtr\source\repos\Lab04\PROG72365_22W_Lab04\main.c(16,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tomtr\source\repos\Lab04\PROG72365_22W_Lab04\main.c(42,23): warning C4133: '=': incompatible types - from 'unsigned char *' to 'unsigned short *'
+C:\Users\tomtr\source\repos\Lab04\PROG72365_22W_Lab04\main.c(18,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tomtr\source\repos\Lab04\PROG72365_22W_Lab04\main.c(27,6): warning C4101: 'crcResult': unreferenced local variable
+  PROG72365_22W_Lab04.vcxproj -> C:\Users\tomtr\Source\Repos\Lab04\x64\Debug\PROG72365_22W_Lab04.exe
