@@ -1,0 +1,6 @@
+﻿  Node.c
+F:\PROG72365 - Data Structures and Algorithms\Assignments\Assignment 2\WIP\Assignment 2\Data_Structures_and_Algorithms_Assignment1\Node.c(53,11): warning C4098: 'traverse': 'void' function returning a value
+F:\PROG72365 - Data Structures and Algorithms\Assignments\Assignment 2\WIP\Assignment 2\Data_Structures_and_Algorithms_Assignment1\Node.c(58,10): warning C4098: 'traverse': 'void' function returning a value
+F:\PROG72365 - Data Structures and Algorithms\Assignments\Assignment 2\WIP\Assignment 2\Data_Structures_and_Algorithms_Assignment1\Node.c(63,11): warning C4098: 'traverseR': 'void' function returning a value
+F:\PROG72365 - Data Structures and Algorithms\Assignments\Assignment 2\WIP\Assignment 2\Data_Structures_and_Algorithms_Assignment1\Node.c(68,10): warning C4098: 'traverseR': 'void' function returning a value
+  Data_Structures_and_Algorithms_Assignment1.vcxproj -> F:\PROG72365 - Data Structures and Algorithms\Assignments\Assignment 2\WIP\Assignment 2\x64\Debug\Data_Structures_and_Algorithms_Assignment2.exe
