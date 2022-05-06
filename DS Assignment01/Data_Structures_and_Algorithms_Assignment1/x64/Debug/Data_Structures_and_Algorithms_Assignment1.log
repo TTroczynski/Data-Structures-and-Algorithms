@@ -1,0 +1,7 @@
+﻿  Main.c
+  Node.c
+F:\PROG72365 - Data Structures and Algorithms\Assignments\Assignment 1\WIP\Data_Structures_and_Algorithms_Assignment1\Data_Structures_and_Algorithms_Assignment1\Node.c(13,11): warning C4013: 'strcpy_s' undefined; assuming extern returning int
+  Queue.c
+  Randomize.c
+  Generating Code...
+  Data_Structures_and_Algorithms_Assignment1.vcxproj -> F:\PROG72365 - Data Structures and Algorithms\Assignments\Assignment 1\WIP\Data_Structures_and_Algorithms_Assignment1\x64\Debug\Data_Structures_and_Algorithms_Assignment1.exe
